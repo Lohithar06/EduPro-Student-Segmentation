@@ -1,0 +1,3001 @@
+UserID,CourseID,CourseCategory,CourseType,CourseLevel,CourseRating,PeerPopularity,RecommendationScore
+U0001,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0001,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0001,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0001,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0001,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0002,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0002,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0002,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0002,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0002,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0003,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0003,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0003,C075,Business Analytics,Certification,Intermediate,4.7,15.0,0.5789
+U0003,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0003,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0004,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0004,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0004,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0004,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0004,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0005,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8269
+U0005,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7277
+U0005,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0005,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.7085
+U0005,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0006,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0006,C049,Finance & Accounting,Paid,Advanced,3.9,23.0,0.6411
+U0006,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0006,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0006,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0007,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0007,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0007,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0007,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0007,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0008,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0008,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0008,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0008,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0008,C002,Data Science,Paid,Advanced,4.3,38.0,0.5921
+U0009,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0009,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0009,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0009,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0009,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0010,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0010,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0010,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0010,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0010,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0011,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0011,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0011,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0011,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0011,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0012,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0012,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0012,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0012,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0012,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0013,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0013,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0013,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0013,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0013,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0014,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0014,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0014,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0014,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0014,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0015,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0015,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0015,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0015,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0015,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0016,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0016,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0016,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0016,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0016,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0017,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0017,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0017,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0017,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0017,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0018,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0018,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0018,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0018,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0018,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0019,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0019,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0019,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0019,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0019,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0020,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0020,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0020,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0020,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0020,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0021,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0021,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0021,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0021,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0021,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0022,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0022,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5906
+U0022,C017,Data Science,Paid,Intermediate,5.0,14.0,0.5882
+U0022,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5635
+U0022,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5624
+U0023,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0023,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0023,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0023,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0023,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0024,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0024,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0024,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0024,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0024,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0025,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0025,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0025,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0025,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0025,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0026,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0026,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0026,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0026,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0026,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0027,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0027,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0027,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0027,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0027,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0028,C038,Digital Marketing,Certification,Beginner,4.5,19.0,0.65
+U0028,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0028,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0028,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0028,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0029,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0029,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0029,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0029,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0029,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0030,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0030,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0030,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0030,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0030,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0031,C038,Digital Marketing,Certification,Beginner,4.5,19.0,0.65
+U0031,C077,Digital Marketing,Paid,Beginner,4.6,18.0,0.6422
+U0031,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0031,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0031,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0032,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0032,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0032,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0032,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0032,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0033,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0033,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0033,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0033,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0033,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0034,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0034,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5906
+U0034,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5635
+U0034,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5624
+U0034,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5541
+U0035,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0035,C050,Digital Marketing,Paid,Intermediate,4.6,17.0,0.6144
+U0035,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0035,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0035,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0036,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0036,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0036,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0036,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0036,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0037,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0037,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0037,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0037,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0037,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0038,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.8038
+U0038,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7469
+U0038,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0038,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6869
+U0038,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6815
+U0039,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0039,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0039,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0039,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0039,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0040,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0040,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0040,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0040,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0040,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0041,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0041,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0041,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0041,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0041,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0042,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0042,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.64
+U0042,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.64
+U0042,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.62
+U0042,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.62
+U0043,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0043,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0043,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0043,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0043,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0044,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0044,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0044,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0044,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0044,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0045,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0045,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0045,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0045,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0045,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0046,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0046,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0046,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0046,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0046,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0047,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0047,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0047,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0047,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0047,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0048,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0048,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0048,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0048,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0048,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0049,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.6908
+U0049,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0049,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6367
+U0049,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0049,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0050,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0050,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0050,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0050,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0050,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0051,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0051,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0051,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0051,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0051,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0052,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0052,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0052,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0052,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0052,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0053,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0053,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0053,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0053,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0053,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0054,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0054,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0054,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0054,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0054,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0055,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0055,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0055,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0055,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0055,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0056,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0056,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0056,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0056,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0056,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0057,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0057,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0057,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0057,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0057,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0058,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0058,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0058,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0058,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0058,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0059,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0059,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0059,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0059,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0059,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0060,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0060,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0060,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0060,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0060,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0061,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0061,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0061,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0061,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0061,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0062,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0062,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0062,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0062,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0062,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0063,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0063,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0063,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0063,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0063,C045,Data Science,Free,Advanced,4.1,40.0,0.5879
+U0064,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0064,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0064,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0064,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0064,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0065,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0065,C026,Business Analytics,Paid,Intermediate,4.7,17.0,0.6344
+U0065,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0065,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0065,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0066,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0066,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0066,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0066,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0066,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0067,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0067,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0067,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0067,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0067,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0068,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0068,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0068,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0068,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0068,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0069,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0069,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0069,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0069,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0069,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0070,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0070,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7257
+U0070,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0070,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0070,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0071,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0071,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0071,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0071,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0071,C002,Data Science,Paid,Advanced,4.3,38.0,0.5921
+U0072,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0072,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0072,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0072,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0072,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0073,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0073,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0073,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0073,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0073,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0074,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7469
+U0074,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6869
+U0074,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6815
+U0074,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0074,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0075,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0075,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0075,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0075,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0075,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0076,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0076,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0076,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0076,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0076,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0077,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0077,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0077,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0077,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0077,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0078,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0078,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0078,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0078,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0078,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0079,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0079,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0079,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0079,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0079,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0080,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0080,C040,Web Development,Free,Beginner,4.5,18.0,0.6222
+U0080,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0080,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0080,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0081,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0081,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0081,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0081,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0081,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0082,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0082,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0082,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0082,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0082,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0083,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0083,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0083,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0083,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0083,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0084,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0084,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0084,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0084,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0084,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0085,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0085,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0085,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0085,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0085,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0086,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0086,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0086,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0086,C049,Finance & Accounting,Paid,Advanced,3.9,23.0,0.6411
+U0086,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0087,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0087,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0087,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0087,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0087,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0088,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0088,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0088,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0088,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0088,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0089,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6583
+U0089,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6475
+U0089,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6358
+U0089,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.6083
+U0089,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0090,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0090,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0090,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0090,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0090,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0091,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0091,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0091,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0091,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0091,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0092,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0092,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0092,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0092,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0092,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0093,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0093,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0093,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0093,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0093,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0094,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0094,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0094,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0094,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0094,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0095,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0095,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0095,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0095,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0095,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0096,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0096,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5906
+U0096,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5635
+U0096,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5624
+U0096,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5541
+U0097,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8036
+U0097,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0097,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0097,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0097,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0098,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0098,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0098,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0098,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0098,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0099,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0099,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0099,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0099,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0099,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0100,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0100,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0100,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0100,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0100,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0101,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0101,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0101,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0101,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0101,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0102,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0102,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0102,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0102,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0102,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0103,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0103,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0103,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0103,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0103,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0104,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0104,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0104,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0104,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0104,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0105,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0105,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0105,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0105,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0105,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0106,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0106,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0106,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0106,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0106,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0107,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0107,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0107,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0107,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0107,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0108,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0108,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0108,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0108,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0108,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0109,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8036
+U0109,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0109,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0109,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0109,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0110,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0110,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0110,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0110,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0110,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0111,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0111,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0111,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0111,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0111,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0112,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0112,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0112,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0112,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0112,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0113,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0113,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0113,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0113,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0113,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0114,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0114,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0114,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0114,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0114,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0115,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0115,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0115,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0115,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0115,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0116,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0116,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0116,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0116,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0116,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0117,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0117,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5887
+U0117,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.555
+U0117,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5525
+U0117,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5462
+U0118,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0118,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0118,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0118,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0118,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0119,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0119,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0119,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0119,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0119,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0120,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0120,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0120,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0120,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0120,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0121,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.795
+U0121,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.7308
+U0121,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.6917
+U0121,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6567
+U0121,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6542
+U0122,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0122,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0122,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0122,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0122,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0123,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6355
+U0123,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6127
+U0123,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6036
+U0123,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5955
+U0123,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.5864
+U0124,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7469
+U0124,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0124,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.7092
+U0124,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6677
+U0124,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0125,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0125,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0125,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0125,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0125,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0126,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7056
+U0126,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0126,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0126,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0126,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0127,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0127,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0127,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7257
+U0127,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0127,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0128,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0128,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0128,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0128,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0128,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0129,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0129,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0129,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0129,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0129,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0130,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0130,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0130,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0130,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0130,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0131,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0131,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0131,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0131,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0131,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0132,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0132,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0132,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0132,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0132,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0133,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0133,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6771
+U0133,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6733
+U0133,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6543
+U0133,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.641
+U0134,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0134,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0134,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0134,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0134,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0135,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0135,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0135,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0135,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0135,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0136,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0136,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0136,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0136,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0136,C047,Digital Marketing,Free,Advanced,4.1,40.0,0.5879
+U0137,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0137,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0137,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0137,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0137,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0138,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0138,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0138,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0138,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0138,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0139,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0139,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0139,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0139,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0139,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0140,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0140,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0140,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0140,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0140,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0141,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0141,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0141,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0141,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0141,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0142,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7808
+U0142,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.7192
+U0142,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.7
+U0142,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6846
+U0142,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6654
+U0143,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0143,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0143,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0143,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0143,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0144,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.6908
+U0144,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0144,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.6483
+U0144,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.61
+U0144,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0145,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0145,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0145,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0145,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0145,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0146,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0146,C065,Mobile Development,Free,Beginner,3.8,46.0,0.635
+U0146,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0146,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0146,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5414
+U0147,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0147,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0147,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0147,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0147,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0148,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0148,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0148,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0148,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0148,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0149,C078,Web Development,Free,Beginner,4.2,21.0,0.6456
+U0149,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0149,C054,Web Development,Paid,Intermediate,4.4,18.0,0.6022
+U0149,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0149,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0150,C031,Cybersecurity,Paid,Advanced,4.0,48.0,0.7107
+U0150,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0150,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0150,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0150,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5414
+U0151,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0151,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0151,C021,Business Analytics,Paid,Intermediate,4.7,15.0,0.5789
+U0151,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0151,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0152,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7477
+U0152,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6477
+U0152,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0152,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0152,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.6038
+U0153,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0153,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0153,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7257
+U0153,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0153,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0154,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0154,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0154,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0154,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0154,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0155,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0155,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0155,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0155,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0155,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0156,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0156,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0156,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0156,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0156,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0157,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0157,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0157,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0157,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0157,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0158,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0158,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0158,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0158,C047,Digital Marketing,Free,Advanced,4.1,40.0,0.5879
+U0158,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5414
+U0159,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0159,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0159,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0159,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.6321
+U0159,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0160,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0160,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0160,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0160,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0160,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0161,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0161,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0161,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0161,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0161,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0162,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0162,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0162,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0162,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0162,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0163,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0163,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0163,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0163,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0163,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0164,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0164,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0164,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0164,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0164,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0165,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0165,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0165,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0165,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0165,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0166,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0166,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0166,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0166,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0166,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0167,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0167,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0167,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0167,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0167,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0168,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0168,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0168,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0168,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0168,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0169,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0169,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0169,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0169,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0169,C076,Design (UI/UX),Certification,Intermediate,3.9,28.0,0.639
+U0170,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0170,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0170,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0170,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0170,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0171,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0171,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0171,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0171,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0171,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0172,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0172,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0172,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.67
+U0172,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6492
+U0172,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.5875
+U0173,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0173,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0173,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0173,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0173,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0174,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0174,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0174,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0174,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0174,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0175,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7396
+U0175,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7234
+U0175,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.7231
+U0175,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.7217
+U0175,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.6629
+U0176,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0176,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0176,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0176,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0176,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0177,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9714
+U0177,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.7114
+U0177,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6971
+U0177,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6714
+U0177,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.64
+U0178,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0178,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0178,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0178,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0178,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0179,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0179,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.7092
+U0179,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6677
+U0179,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0179,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6054
+U0180,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0180,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0180,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0180,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0180,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0181,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0181,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0181,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0181,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0181,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0182,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0182,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0182,C075,Business Analytics,Certification,Intermediate,4.7,15.0,0.5789
+U0182,C021,Business Analytics,Paid,Intermediate,4.7,15.0,0.5789
+U0182,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0183,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0183,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0183,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0183,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0183,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0184,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0184,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0184,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0184,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0184,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0185,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0185,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0185,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0185,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0185,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0186,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0186,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0186,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0186,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0186,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0187,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0187,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0187,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0187,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0187,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0188,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0188,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0188,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0188,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0188,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0189,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0189,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0189,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0189,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0189,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0190,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7277
+U0190,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0190,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.65
+U0190,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0190,C047,Digital Marketing,Free,Advanced,4.1,40.0,0.6085
+U0191,C006,Web Development,Paid,Beginner,4.1,47.0,0.7129
+U0191,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0191,C078,Web Development,Free,Beginner,4.2,43.0,0.6614
+U0191,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0191,C037,Web Development,Paid,Beginner,3.9,43.0,0.6014
+U0192,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0192,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0192,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0192,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0192,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0193,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0193,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0193,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0193,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0193,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5567
+U0194,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0194,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0194,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0194,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0194,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0195,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0195,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0195,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0195,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0195,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0196,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0196,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0196,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0196,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0196,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0197,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0197,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0197,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0197,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0197,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0198,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0198,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0198,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0198,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0198,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0199,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0199,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0199,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0199,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0199,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0200,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0200,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0200,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0200,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0200,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0201,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0201,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0201,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0201,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0201,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0202,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.7223
+U0202,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0202,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.69
+U0202,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6862
+U0202,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6854
+U0203,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0203,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0203,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0203,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0203,C001,Finance & Accounting,Free,Beginner,3.8,19.0,0.51
+U0204,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0204,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0204,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0204,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0204,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0205,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0205,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0205,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0205,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0205,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0206,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0206,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0206,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0206,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0206,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0207,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0207,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0207,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0207,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0207,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0208,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0208,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0208,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0208,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0208,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0209,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0209,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0209,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0209,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0209,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0210,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0210,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0210,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0210,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0210,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0211,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0211,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0211,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0211,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0211,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0212,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.82
+U0212,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.7506
+U0212,C065,Mobile Development,Free,Beginner,3.8,26.0,0.7306
+U0212,C023,Mobile Development,Paid,Beginner,4.2,22.0,0.6929
+U0212,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5929
+U0213,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0213,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0213,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0213,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0213,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0214,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0214,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0214,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0214,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0214,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0215,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0215,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0215,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0215,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0215,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0216,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7257
+U0216,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0216,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0216,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0216,C057,Business Analytics,Paid,Beginner,4.4,37.0,0.5943
+U0217,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0217,C049,Finance & Accounting,Paid,Advanced,3.9,23.0,0.6411
+U0217,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0217,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0217,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0218,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0218,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0218,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0218,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0218,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0219,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0219,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0219,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0219,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0219,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0220,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0220,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5906
+U0220,C017,Data Science,Paid,Intermediate,5.0,14.0,0.5882
+U0220,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5635
+U0220,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5624
+U0221,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0221,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0221,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0221,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0221,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0222,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0222,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0222,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0222,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0222,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0223,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0223,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0223,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0223,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0223,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0224,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0224,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0224,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0224,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0224,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0225,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0225,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0225,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0225,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0225,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0226,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0226,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0226,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0226,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0226,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0227,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0227,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0227,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0227,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0227,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0228,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7056
+U0228,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0228,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0228,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0228,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0229,C062,Data Science,Paid,Advanced,4.2,46.0,0.7438
+U0229,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0229,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0229,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7115
+U0229,C071,Data Science,Paid,Advanced,4.1,45.0,0.7046
+U0230,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0230,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0230,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0230,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0230,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0231,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0231,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0231,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0231,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0231,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0232,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0232,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0232,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0232,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0232,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0233,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0233,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0233,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0233,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0233,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0234,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0234,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0234,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0234,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0234,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0235,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0235,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0235,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0235,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0235,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0236,C038,Digital Marketing,Certification,Beginner,4.5,19.0,0.65
+U0236,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0236,C050,Digital Marketing,Paid,Intermediate,4.6,17.0,0.6144
+U0236,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0236,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0237,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6553
+U0237,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6341
+U0237,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.62
+U0237,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6165
+U0237,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5965
+U0238,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0238,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0238,C049,Finance & Accounting,Paid,Advanced,3.9,23.0,0.6411
+U0238,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0238,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0239,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0239,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0239,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0239,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0239,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0240,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7234
+U0240,C078,Web Development,Free,Beginner,4.2,43.0,0.683
+U0240,C022,Web Development,Paid,Intermediate,4.0,45.0,0.6725
+U0240,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6341
+U0240,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6162
+U0241,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0241,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0241,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0241,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0241,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0242,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7179
+U0242,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6821
+U0242,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0242,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5929
+U0242,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.575
+U0243,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6553
+U0243,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6341
+U0243,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.62
+U0243,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6165
+U0243,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5965
+U0244,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0244,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0244,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0244,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0244,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0245,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0245,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0245,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0245,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0245,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0246,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0246,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0246,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0246,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.6321
+U0246,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0247,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0247,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0247,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0247,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0247,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0248,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0248,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0248,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0248,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0248,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0249,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0249,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0249,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0249,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0249,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0250,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.6809
+U0250,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6748
+U0250,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.6357
+U0250,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.5991
+U0250,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5661
+U0251,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7235
+U0251,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6259
+U0251,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.6247
+U0251,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.62
+U0251,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5929
+U0252,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7469
+U0252,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.7092
+U0252,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6677
+U0252,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0252,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0253,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0253,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0253,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0253,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0253,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0254,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0254,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5906
+U0254,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5635
+U0254,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5624
+U0254,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5541
+U0255,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0255,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0255,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0255,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0255,C002,Data Science,Paid,Advanced,4.3,38.0,0.5921
+U0256,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0256,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0256,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0256,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0256,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0257,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0257,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0257,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7115
+U0257,C071,Data Science,Paid,Advanced,4.1,45.0,0.7046
+U0257,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0258,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0258,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0258,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0258,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0258,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0259,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0259,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.69
+U0259,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6854
+U0259,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6685
+U0259,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.65
+U0260,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0260,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0260,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0260,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0260,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0261,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0261,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0261,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0261,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0261,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0262,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0262,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0262,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0262,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0262,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0263,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0263,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0263,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0263,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0263,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0264,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0264,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0264,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0264,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0264,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0265,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0265,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5887
+U0265,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.555
+U0265,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5525
+U0265,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5462
+U0266,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8775
+U0266,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7525
+U0266,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.59
+U0266,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0266,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0267,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0267,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.7092
+U0267,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6677
+U0267,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0267,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6054
+U0268,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7583
+U0268,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6983
+U0268,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6922
+U0268,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6844
+U0268,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6583
+U0269,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0269,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0269,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0269,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0269,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0270,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0270,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0270,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0270,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0270,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0271,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0271,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0271,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0271,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0271,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0272,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7469
+U0272,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6815
+U0272,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6269
+U0272,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0272,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0273,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0273,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0273,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0273,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0273,C080,Finance & Accounting,Certification,Beginner,3.8,21.0,0.5656
+U0274,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0274,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0274,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0274,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0274,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0275,C023,Mobile Development,Paid,Beginner,4.2,22.0,0.74
+U0275,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0275,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0275,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0275,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0276,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.8231
+U0276,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0276,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0276,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0276,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0277,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0277,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0277,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0277,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0277,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0278,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0278,C072,Mobile Development,Certification,Beginner,4.2,44.0,0.6793
+U0278,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0278,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0278,C023,Mobile Development,Paid,Beginner,4.2,37.0,0.5543
+U0279,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0279,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0279,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0279,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0279,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0280,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0280,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0280,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0280,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0280,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0281,C062,Data Science,Paid,Advanced,4.2,46.0,0.7438
+U0281,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0281,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7115
+U0281,C071,Data Science,Paid,Advanced,4.1,45.0,0.7046
+U0281,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0282,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0282,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0282,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0282,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0282,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0283,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0283,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0283,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0283,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0283,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0284,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0284,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0284,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0284,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0284,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0285,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0285,C066,Data Science,Paid,Advanced,4.8,39.0,0.6683
+U0285,C071,Data Science,Paid,Advanced,4.1,45.0,0.6533
+U0285,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0285,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0286,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0286,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0286,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0286,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0286,C040,Web Development,Free,Beginner,4.5,33.0,0.5429
+U0287,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0287,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0287,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0287,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0287,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0288,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0288,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0288,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0288,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0288,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0289,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0289,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0289,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0289,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0289,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0290,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8036
+U0290,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0290,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0290,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0290,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0291,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0291,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0291,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0291,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0291,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0292,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0292,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0292,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0292,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0292,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0293,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0293,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0293,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0293,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0293,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0294,C022,Web Development,Paid,Intermediate,4.0,45.0,0.6571
+U0294,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0294,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0294,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0294,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0295,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0295,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5887
+U0295,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.555
+U0295,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5525
+U0295,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5462
+U0296,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0296,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0296,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0296,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0296,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0297,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0297,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0297,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0297,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0297,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0298,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0298,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0298,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0298,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0298,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0299,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0299,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0299,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0299,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0299,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0300,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0300,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0300,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0300,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0300,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0301,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0301,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0301,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0301,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0301,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0302,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0302,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0302,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0302,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0302,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0303,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0303,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0303,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0303,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0303,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0304,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0304,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0304,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0304,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0304,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0305,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0305,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0305,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0305,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0305,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0306,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0306,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0306,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0306,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0306,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0307,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0307,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0307,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0307,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0307,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0308,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0308,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0308,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0308,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0308,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0309,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0309,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0309,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0309,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0309,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0310,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0310,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5887
+U0310,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.555
+U0310,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5525
+U0310,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5462
+U0311,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7477
+U0311,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6669
+U0311,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0311,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0311,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5662
+U0312,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0312,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0312,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0312,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.6321
+U0312,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0313,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0313,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0313,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0313,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0313,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0314,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0314,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0314,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0314,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0314,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0315,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0315,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0315,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0315,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0315,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0316,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0316,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0316,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0316,C044,Design (UI/UX),Free,Advanced,4.3,18.0,0.5822
+U0316,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0317,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0317,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0317,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0317,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0317,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0318,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0318,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0318,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0318,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0318,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0319,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0319,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0319,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0319,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0319,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0320,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0320,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0320,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0320,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0320,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0321,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0321,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0321,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0321,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0321,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0322,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0322,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0322,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0322,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0322,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0323,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0323,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0323,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0323,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0323,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0324,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0324,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0324,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0324,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0324,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0325,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0325,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0325,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0325,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0325,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0326,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0326,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0326,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0326,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0326,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0327,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.7223
+U0327,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0327,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.69
+U0327,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.6492
+U0327,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0328,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0328,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0328,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0328,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0328,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0329,C077,Digital Marketing,Paid,Beginner,4.6,18.0,0.6422
+U0329,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0329,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0329,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0329,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0330,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0330,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0330,C071,Data Science,Paid,Advanced,4.1,45.0,0.6533
+U0330,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0330,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0331,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0331,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0331,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0331,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0331,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0332,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0332,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0332,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0332,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0332,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0333,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.7114
+U0333,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.7057
+U0333,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6971
+U0333,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6714
+U0333,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6714
+U0334,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0334,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0334,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0334,C041,AI & Machine Learning,Paid,Intermediate,3.7,22.0,0.5733
+U0334,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0335,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0335,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0335,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0335,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0335,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0336,C006,Web Development,Paid,Beginner,4.1,47.0,0.7129
+U0336,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0336,C022,Web Development,Paid,Intermediate,4.0,45.0,0.6571
+U0336,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0336,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0337,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0337,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0337,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0337,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0337,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0338,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0338,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0338,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0338,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0338,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0339,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0339,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0339,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0339,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0339,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0340,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0340,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0340,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0340,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0340,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0341,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0341,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6862
+U0341,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6854
+U0341,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6685
+U0341,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.6492
+U0342,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0342,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0342,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0342,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0342,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0343,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7056
+U0343,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0343,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0343,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0343,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0344,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0344,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.7092
+U0344,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6677
+U0344,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0344,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6054
+U0345,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0345,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0345,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0345,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0345,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0346,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0346,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0346,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0346,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0346,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0347,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0347,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0347,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0347,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0347,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0348,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0348,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0348,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0348,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0348,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0349,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0349,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0349,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0349,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0349,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0350,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0350,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0350,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0350,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0350,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0351,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0351,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0351,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0351,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0351,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0352,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0352,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0352,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0352,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0352,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0353,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0353,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0353,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0353,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0353,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0354,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7583
+U0354,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6983
+U0354,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6922
+U0354,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6844
+U0354,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.6261
+U0355,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0355,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0355,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0355,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0355,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0356,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0356,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0356,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0356,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0356,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0357,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0357,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0357,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0357,C080,Finance & Accounting,Certification,Beginner,3.8,21.0,0.5656
+U0357,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0358,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0358,C065,Mobile Development,Free,Beginner,3.8,46.0,0.635
+U0358,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0358,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0358,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0359,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0359,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0359,C066,Data Science,Paid,Advanced,4.8,39.0,0.6683
+U0359,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0359,C036,Data Science,Paid,Beginner,3.8,44.0,0.5725
+U0360,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0360,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0360,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0360,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0360,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0361,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.7223
+U0361,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0361,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.69
+U0361,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6862
+U0361,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6854
+U0362,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.94
+U0362,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.82
+U0362,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.68
+U0362,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.64
+U0362,C057,Business Analytics,Paid,Beginner,4.4,37.0,0.62
+U0363,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0363,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0363,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0363,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0363,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0364,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0364,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0364,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7115
+U0364,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0364,C036,Data Science,Paid,Beginner,3.8,44.0,0.6254
+U0365,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0365,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0365,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0365,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0365,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0366,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0366,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0366,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0366,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0366,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0367,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0367,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0367,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0367,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0367,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0368,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7662
+U0368,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0368,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.7
+U0368,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.6692
+U0368,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0369,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0369,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0369,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0369,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0369,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0370,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7583
+U0370,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6983
+U0370,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6922
+U0370,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6844
+U0370,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6583
+U0371,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0371,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0371,C016,Cybersecurity,Free,Intermediate,4.2,39.0,0.59
+U0371,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0371,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0372,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0372,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0372,C076,Design (UI/UX),Certification,Intermediate,3.9,28.0,0.639
+U0372,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0372,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0373,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0373,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0373,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0373,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0373,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0374,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0374,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0374,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0374,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0374,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0375,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8269
+U0375,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7277
+U0375,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.7085
+U0375,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.65
+U0375,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0376,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0376,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0376,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0376,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0376,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0377,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0377,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0377,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.67
+U0377,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0377,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.5542
+U0378,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0378,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0378,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0378,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0378,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0379,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0379,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0379,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0379,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0379,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0380,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0380,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0380,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0380,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0380,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0381,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0381,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0381,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0381,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0381,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0382,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0382,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0382,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0382,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0382,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0383,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0383,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0383,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0383,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0383,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0384,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.7864
+U0384,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7173
+U0384,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7155
+U0384,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6555
+U0384,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6036
+U0385,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0385,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0385,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0385,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0385,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0386,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0386,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0386,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0386,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0386,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0387,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.7223
+U0387,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0387,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.69
+U0387,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6862
+U0387,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6685
+U0388,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0388,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0388,C076,Design (UI/UX),Certification,Intermediate,3.9,40.0,0.5479
+U0388,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5414
+U0388,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.5257
+U0389,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.9208
+U0389,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6669
+U0389,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0389,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0389,C057,Business Analytics,Paid,Beginner,4.4,37.0,0.6108
+U0390,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0390,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0390,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0390,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0390,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0391,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0391,C040,Web Development,Free,Beginner,4.5,18.0,0.6222
+U0391,C054,Web Development,Paid,Intermediate,4.4,18.0,0.6022
+U0391,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0391,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0392,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0392,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0392,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0392,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0392,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0393,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0393,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0393,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0393,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0393,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0394,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0394,C040,Web Development,Free,Beginner,4.5,18.0,0.6222
+U0394,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0394,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0394,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0395,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0395,C066,Data Science,Paid,Advanced,4.8,39.0,0.6683
+U0395,C071,Data Science,Paid,Advanced,4.1,45.0,0.6533
+U0395,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0395,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0396,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0396,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0396,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0396,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0396,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0397,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0397,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0397,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0397,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0397,C002,Data Science,Paid,Advanced,4.3,38.0,0.5921
+U0398,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.8583
+U0398,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7583
+U0398,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6983
+U0398,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6844
+U0398,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.6261
+U0399,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0399,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0399,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0399,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0399,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0400,C066,Data Science,Paid,Advanced,4.8,39.0,0.75
+U0400,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7234
+U0400,C071,Data Science,Paid,Advanced,4.1,45.0,0.6956
+U0400,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6341
+U0400,C002,Data Science,Paid,Advanced,4.3,38.0,0.6168
+U0401,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0401,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0401,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0401,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0401,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0402,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7583
+U0402,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6983
+U0402,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6922
+U0402,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6844
+U0402,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6583
+U0403,C023,Mobile Development,Paid,Beginner,4.2,22.0,0.74
+U0403,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0403,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0403,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0403,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0404,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.7864
+U0404,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7155
+U0404,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6555
+U0404,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6036
+U0404,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5955
+U0405,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0405,C050,Digital Marketing,Paid,Intermediate,4.6,17.0,0.6144
+U0405,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0405,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0405,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0406,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0406,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0406,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0406,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0406,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0407,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0407,C026,Business Analytics,Paid,Intermediate,4.7,41.0,0.7257
+U0407,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0407,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0407,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0408,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0408,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0408,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0408,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0408,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0409,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0409,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0409,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0409,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0409,C076,Design (UI/UX),Certification,Intermediate,3.9,28.0,0.639
+U0410,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0410,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0410,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0410,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0410,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0411,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0411,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0411,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0411,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0411,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0412,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0412,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0412,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0412,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0412,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0413,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0413,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0413,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0413,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0413,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0414,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0414,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0414,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0414,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0414,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0415,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0415,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0415,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0415,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0415,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0416,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.8246
+U0416,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.6054
+U0416,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.6038
+U0416,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5662
+U0416,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.5469
+U0417,C062,Data Science,Paid,Advanced,4.2,46.0,0.76
+U0417,C066,Data Science,Paid,Advanced,4.8,39.0,0.74
+U0417,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0417,C017,Data Science,Paid,Intermediate,5.0,36.0,0.72
+U0417,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.64
+U0418,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0418,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0418,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0418,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0418,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0419,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0419,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0419,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0419,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0419,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0420,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0420,C071,Data Science,Paid,Advanced,4.1,45.0,0.6533
+U0420,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0420,C036,Data Science,Paid,Beginner,3.8,44.0,0.5725
+U0420,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0421,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0421,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0421,C075,Business Analytics,Certification,Intermediate,4.7,15.0,0.5789
+U0421,C021,Business Analytics,Paid,Intermediate,4.7,15.0,0.5789
+U0421,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0422,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6477
+U0422,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0422,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0422,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.6038
+U0422,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5662
+U0423,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0423,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0423,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0423,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0423,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0424,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0424,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5887
+U0424,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.555
+U0424,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5525
+U0424,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.5462
+U0425,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0425,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0425,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0425,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0425,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0426,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0426,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.7567
+U0426,C049,Finance & Accounting,Paid,Advanced,3.9,23.0,0.6411
+U0426,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0426,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0427,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0427,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0427,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0427,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0427,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0428,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0428,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0428,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0428,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0428,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0429,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0429,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6869
+U0429,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6269
+U0429,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0429,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0430,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0430,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0430,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0430,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0430,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0431,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0431,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0431,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0431,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0431,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0432,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0432,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0432,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0432,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0432,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0433,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.8058
+U0433,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7234
+U0433,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6882
+U0433,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6516
+U0433,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6341
+U0434,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0434,C034,Cloud Computing,Paid,Advanced,4.0,22.0,0.6333
+U0434,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0434,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0434,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0435,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0435,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0435,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0435,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0435,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0436,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0436,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0436,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0436,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0436,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0437,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0437,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0437,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0437,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0437,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0438,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.74
+U0438,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0438,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.72
+U0438,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.66
+U0438,C047,Digital Marketing,Free,Advanced,4.1,40.0,0.62
+U0439,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0439,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0439,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0439,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0439,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0440,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0440,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0440,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0440,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0440,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0441,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0441,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0441,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0441,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0441,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0442,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0442,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0442,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0442,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0442,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0443,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0443,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0443,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0443,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0443,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0444,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0444,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0444,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0444,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0444,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0445,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0445,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0445,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0445,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0445,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0446,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0446,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0446,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0446,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0446,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0447,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0447,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0447,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0447,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0447,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0448,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0448,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0448,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0448,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0448,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0449,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0449,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0449,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0449,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0449,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0450,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0450,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0450,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0450,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0450,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0451,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0451,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0451,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0451,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0451,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0452,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0452,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0452,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0452,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0452,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0453,C062,Data Science,Paid,Advanced,4.2,46.0,0.7438
+U0453,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0453,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0453,C071,Data Science,Paid,Advanced,4.1,45.0,0.7046
+U0453,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0454,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.7793
+U0454,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0454,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0454,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0454,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0455,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0455,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0455,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0455,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0455,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0456,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0456,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0456,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0456,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0456,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0457,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0457,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0457,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0457,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0457,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0458,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.84
+U0458,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0458,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0458,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0458,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0459,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0459,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0459,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0459,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0459,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0460,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0460,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0460,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0460,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0460,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.5611
+U0461,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0461,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0461,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0461,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0461,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0462,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0462,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0462,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0462,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0462,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0463,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0463,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0463,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0463,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0463,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0464,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7662
+U0464,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0464,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.7
+U0464,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6823
+U0464,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.6692
+U0465,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.76
+U0465,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0465,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.68
+U0465,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.64
+U0465,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.64
+U0466,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.8038
+U0466,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7469
+U0466,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0466,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0466,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0467,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.7971
+U0467,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0467,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0467,C016,Cybersecurity,Free,Intermediate,4.2,39.0,0.59
+U0467,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0468,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0468,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0468,C066,Data Science,Paid,Advanced,4.8,39.0,0.6683
+U0468,C071,Data Science,Paid,Advanced,4.1,45.0,0.6533
+U0468,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0469,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0469,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0469,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0469,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0469,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0470,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0470,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0470,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0470,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0470,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0471,C006,Web Development,Paid,Beginner,4.1,47.0,0.7431
+U0471,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0471,C078,Web Development,Free,Beginner,4.2,43.0,0.6862
+U0471,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0471,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0472,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0472,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0472,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0472,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0472,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0473,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0473,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0473,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0473,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0473,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0474,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0474,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0474,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0474,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0474,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0475,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0475,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0475,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0475,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0475,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0476,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0476,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0476,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0476,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0476,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0477,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0477,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0477,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0477,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0477,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0478,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0478,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0478,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0478,C041,AI & Machine Learning,Paid,Intermediate,3.7,22.0,0.5733
+U0478,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0479,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.8231
+U0479,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0479,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0479,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0479,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0480,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.6809
+U0480,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6748
+U0480,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.6357
+U0480,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.5991
+U0480,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5661
+U0481,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.8231
+U0481,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0481,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0481,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0481,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0482,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0482,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0482,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0482,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0482,C036,Data Science,Paid,Beginner,3.8,44.0,0.5993
+U0483,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0483,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0483,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0483,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0483,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0484,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0484,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0484,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0484,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0484,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0485,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.7733
+U0485,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0485,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0485,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0485,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0486,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0486,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0486,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0486,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0486,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0487,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0487,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0487,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0487,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0487,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0488,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.7857
+U0488,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7162
+U0488,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.6819
+U0488,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0488,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.5905
+U0489,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0489,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0489,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0489,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0489,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0490,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0490,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0490,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0490,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0490,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0491,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0491,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0491,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0491,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0491,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0492,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0492,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0492,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0492,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0492,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0493,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0493,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0493,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0493,C041,AI & Machine Learning,Paid,Intermediate,3.7,22.0,0.5733
+U0493,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0494,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0494,C078,Web Development,Free,Beginner,4.2,43.0,0.6862
+U0494,C037,Web Development,Paid,Beginner,3.9,43.0,0.6262
+U0494,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0494,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.6038
+U0495,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0495,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0495,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0495,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0495,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0496,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0496,C022,Web Development,Paid,Intermediate,4.0,45.0,0.7
+U0496,C078,Web Development,Free,Beginner,4.2,43.0,0.7
+U0496,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.64
+U0496,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.64
+U0497,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0497,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0497,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0497,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0497,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0498,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0498,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0498,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0498,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0498,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0499,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7056
+U0499,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0499,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0499,C004,AI & Machine Learning,Paid,Beginner,4.3,19.0,0.61
+U0499,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0500,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0500,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0500,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0500,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0500,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0501,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0501,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0501,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0501,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0501,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0502,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0502,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0502,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0502,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0502,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0503,C062,Data Science,Paid,Advanced,4.2,46.0,0.6942
+U0503,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0503,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6458
+U0503,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0503,C036,Data Science,Paid,Beginner,3.8,44.0,0.5725
+U0504,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.6908
+U0504,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0504,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.6483
+U0504,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0504,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0505,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.7656
+U0505,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0505,C059,Cloud Computing,Certification,Beginner,4.6,17.0,0.6144
+U0505,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0505,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0506,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0506,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0506,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0506,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0506,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0507,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0507,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0507,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0507,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0507,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0508,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0508,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0508,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0508,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0508,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.5414
+U0509,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0509,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0509,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0509,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0509,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0510,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0510,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0510,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0510,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0510,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0511,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0511,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0511,C044,Design (UI/UX),Free,Advanced,4.3,41.0,0.6457
+U0511,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0511,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0512,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0512,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0512,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0512,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0512,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0513,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0513,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0513,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0513,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0513,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0514,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.9231
+U0514,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0514,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0514,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0514,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0515,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.8559
+U0515,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0515,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0515,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0515,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0516,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0516,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0516,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0516,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0516,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0517,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0517,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0517,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0517,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0517,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0518,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0518,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0518,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0518,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0518,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0519,C038,Digital Marketing,Certification,Beginner,4.5,19.0,0.65
+U0519,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0519,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0519,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0519,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0520,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0520,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0520,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0520,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0520,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0521,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0521,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0521,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0521,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0521,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0522,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.7056
+U0522,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0522,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0522,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0522,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0523,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0523,C022,Web Development,Paid,Intermediate,4.0,45.0,0.6571
+U0523,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0523,C037,Web Development,Paid,Beginner,3.9,43.0,0.6014
+U0523,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0524,C039,Finance & Accounting,Free,Intermediate,4.4,21.0,0.6856
+U0524,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0524,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0524,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0524,C080,Finance & Accounting,Certification,Beginner,3.8,21.0,0.5656
+U0525,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0525,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0525,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0525,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0525,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0526,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0526,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0526,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0526,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0526,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0527,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0527,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0527,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0527,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0527,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0528,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0528,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0528,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0528,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0528,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0529,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0529,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0529,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0529,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0529,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0530,C066,Data Science,Paid,Advanced,4.8,39.0,0.7071
+U0530,C062,Data Science,Paid,Advanced,4.2,46.0,0.7036
+U0530,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6821
+U0530,C071,Data Science,Paid,Advanced,4.1,45.0,0.6643
+U0530,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0531,C062,Data Science,Paid,Advanced,4.2,46.0,0.715
+U0531,C066,Data Science,Paid,Advanced,4.8,39.0,0.71
+U0531,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0531,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0531,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0532,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.8038
+U0532,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7469
+U0532,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6869
+U0532,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6815
+U0532,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0533,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0533,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0533,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0533,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0533,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0534,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.8231
+U0534,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0534,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0534,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0534,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0535,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0535,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0535,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0535,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0535,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0536,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0536,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0536,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0536,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0536,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.5887
+U0537,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.9208
+U0537,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.8054
+U0537,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6669
+U0537,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6477
+U0537,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0538,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.7542
+U0538,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0538,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6367
+U0538,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6308
+U0538,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0539,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.7689
+U0539,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.7611
+U0539,C003,Finance & Accounting,Free,Beginner,4.1,24.0,0.7089
+U0539,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0539,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0540,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0540,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0540,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0540,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0540,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0541,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0541,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0541,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0541,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0541,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0542,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0542,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0542,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0542,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0542,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0543,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0543,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0543,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0543,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0543,C070,AI & Machine Learning,Paid,Beginner,4.5,21.0,0.5056
+U0544,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0544,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0544,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0544,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0544,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0545,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.7542
+U0545,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0545,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6308
+U0545,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0545,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.5708
+U0546,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0546,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0546,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0546,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0546,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0547,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7234
+U0547,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.7091
+U0547,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.683
+U0547,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6755
+U0547,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6629
+U0548,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0548,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0548,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0548,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0548,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0549,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6775
+U0549,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6367
+U0549,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5733
+U0549,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.5708
+U0549,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.5708
+U0550,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8036
+U0550,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0550,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7057
+U0550,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0550,C047,Digital Marketing,Free,Advanced,4.1,40.0,0.5879
+U0551,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0551,C009,Cloud Computing,Free,Advanced,4.5,18.0,0.6222
+U0551,C056,Cloud Computing,Free,Advanced,4.3,19.0,0.61
+U0551,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0551,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0552,C069,Design (UI/UX),Paid,Advanced,4.6,42.0,0.7236
+U0552,C067,Design (UI/UX),Free,Advanced,4.7,39.0,0.69
+U0552,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0552,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0552,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0553,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0553,C063,Finance & Accounting,Certification,Beginner,4.2,43.0,0.6614
+U0553,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0553,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0553,C001,Finance & Accounting,Free,Beginner,3.8,45.0,0.6171
+U0554,C062,Data Science,Paid,Advanced,4.2,46.0,0.76
+U0554,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.74
+U0554,C066,Data Science,Paid,Advanced,4.8,39.0,0.74
+U0554,C017,Data Science,Paid,Intermediate,5.0,36.0,0.72
+U0554,C071,Data Science,Paid,Advanced,4.1,45.0,0.72
+U0555,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0555,C024,Design (UI/UX),Certification,Advanced,3.7,36.0,0.7015
+U0555,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0555,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0555,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0556,C023,Mobile Development,Paid,Beginner,4.2,22.0,0.74
+U0556,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0556,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0556,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0556,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0557,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0557,C026,Business Analytics,Paid,Intermediate,4.7,17.0,0.6344
+U0557,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0557,C021,Business Analytics,Paid,Intermediate,4.7,15.0,0.5789
+U0557,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0558,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.795
+U0558,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.7308
+U0558,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.7192
+U0558,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.6917
+U0558,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6567
+U0559,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0559,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0559,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0559,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0559,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0560,C068,Cloud Computing,Certification,Intermediate,4.5,19.0,0.65
+U0560,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0560,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0560,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0560,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0561,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.8864
+U0561,C025,Business Analytics,Paid,Advanced,4.2,42.0,0.6436
+U0561,C074,Business Analytics,Paid,Beginner,4.2,41.0,0.6257
+U0561,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0561,C057,Business Analytics,Paid,Beginner,4.4,37.0,0.5943
+U0562,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0562,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0562,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0562,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0562,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0563,C066,Data Science,Paid,Advanced,4.8,39.0,0.7292
+U0563,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0563,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7115
+U0563,C071,Data Science,Paid,Advanced,4.1,45.0,0.7046
+U0563,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6269
+U0564,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0564,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0564,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0564,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0564,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0565,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0565,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0565,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0565,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0565,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0566,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0566,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0566,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0566,C013,Finance & Accounting,Paid,Intermediate,4.5,38.0,0.6321
+U0566,C039,Finance & Accounting,Free,Intermediate,4.4,39.0,0.63
+U0567,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0567,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0567,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0567,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0567,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0568,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0568,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0568,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0568,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0568,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0569,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0569,C054,Web Development,Paid,Intermediate,4.4,18.0,0.6022
+U0569,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0569,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0569,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0570,C049,Finance & Accounting,Paid,Advanced,3.9,48.0,0.6907
+U0570,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0570,C005,Finance & Accounting,Certification,Beginner,4.7,38.0,0.6721
+U0570,C003,Finance & Accounting,Free,Beginner,4.1,44.0,0.6593
+U0570,C030,Finance & Accounting,Paid,Beginner,4.4,40.0,0.6479
+U0571,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0571,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0571,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0571,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0571,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0572,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8269
+U0572,C077,Digital Marketing,Paid,Beginner,4.6,41.0,0.7277
+U0572,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.7208
+U0572,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.65
+U0572,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6246
+U0573,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0573,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0573,C059,Cloud Computing,Certification,Beginner,4.6,34.0,0.6559
+U0573,C080,Finance & Accounting,Certification,Beginner,3.8,29.0,0.6318
+U0573,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0574,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0574,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0574,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0574,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0574,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0575,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0575,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0575,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0575,C069,Design (UI/UX),Paid,Advanced,4.6,16.0,0.5867
+U0575,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0576,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.6467
+U0576,C063,Finance & Accounting,Certification,Beginner,4.2,25.0,0.64
+U0576,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.64
+U0576,C013,Finance & Accounting,Paid,Intermediate,4.5,23.0,0.6333
+U0576,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.6267
+U0577,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0577,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0577,C033,Cloud Computing,Paid,Beginner,3.5,51.0,0.6643
+U0577,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0577,C056,Cloud Computing,Free,Advanced,4.3,39.0,0.61
+U0578,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0578,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0578,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0578,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0578,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0579,C059,Cloud Computing,Certification,Beginner,4.6,43.0,0.7414
+U0579,C020,Cloud Computing,Paid,Intermediate,4.8,38.0,0.6921
+U0579,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0579,C052,Cloud Computing,Free,Intermediate,3.7,48.0,0.6507
+U0579,C009,Cloud Computing,Free,Advanced,4.5,39.0,0.65
+U0580,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0580,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0580,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0580,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0580,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0581,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0581,C014,AI & Machine Learning,Paid,Intermediate,4.6,17.0,0.6144
+U0581,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0581,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0581,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0582,C017,Data Science,Paid,Intermediate,5.0,36.0,0.6964
+U0582,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0582,C071,Data Science,Paid,Advanced,4.1,45.0,0.6771
+U0582,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0582,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0583,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0583,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0583,C016,Cybersecurity,Free,Intermediate,4.2,39.0,0.59
+U0583,C075,Business Analytics,Certification,Intermediate,4.7,44.0,0.5793
+U0583,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.575
+U0584,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0584,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0584,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0584,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0584,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0585,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0585,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0585,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0585,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.6503
+U0585,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0586,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0586,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0586,C080,Finance & Accounting,Certification,Beginner,3.8,21.0,0.5656
+U0586,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0586,C018,Mobile Development,Paid,Advanced,3.9,26.0,0.5244
+U0587,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0587,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0587,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0587,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0587,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0588,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0588,C078,Web Development,Free,Beginner,4.2,43.0,0.6614
+U0588,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6036
+U0588,C037,Web Development,Paid,Beginner,3.9,43.0,0.6014
+U0588,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.5971
+U0589,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.8036
+U0589,C079,Digital Marketing,Paid,Beginner,3.6,53.0,0.72
+U0589,C050,Digital Marketing,Paid,Intermediate,4.6,40.0,0.6879
+U0589,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0589,C038,Digital Marketing,Certification,Beginner,4.5,38.0,0.6321
+U0590,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0590,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0590,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0590,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0590,C027,AI & Machine Learning,Paid,Beginner,4.0,42.0,0.6036
+U0591,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0591,C017,Data Science,Paid,Intermediate,5.0,14.0,0.6111
+U0591,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0591,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0591,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0592,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0592,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0592,C048,Design (UI/UX),Paid,Intermediate,4.2,20.0,0.6178
+U0592,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0592,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0593,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0593,C050,Digital Marketing,Paid,Intermediate,4.6,17.0,0.6144
+U0593,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0593,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0593,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0594,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0594,C075,Business Analytics,Certification,Intermediate,4.7,15.0,0.5789
+U0594,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0594,C030,Finance & Accounting,Paid,Beginner,4.4,24.0,0.5689
+U0594,C020,Cloud Computing,Paid,Intermediate,4.8,21.0,0.5656
+U0595,C077,Digital Marketing,Paid,Beginner,4.6,18.0,0.6422
+U0595,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0595,C050,Digital Marketing,Paid,Intermediate,4.6,17.0,0.6144
+U0595,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0595,C042,Digital Marketing,Certification,Advanced,5.0,13.0,0.5833
+U0596,C005,Finance & Accounting,Certification,Beginner,4.7,32.0,0.8503
+U0596,C063,Finance & Accounting,Certification,Beginner,4.2,35.0,0.7887
+U0596,C075,Business Analytics,Certification,Intermediate,4.7,39.0,0.74
+U0596,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0596,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0597,C028,Design (UI/UX),Paid,Beginner,4.6,18.0,0.6422
+U0597,C072,Mobile Development,Certification,Beginner,4.2,28.0,0.64
+U0597,C067,Design (UI/UX),Free,Advanced,4.7,16.0,0.6067
+U0597,C051,Mobile Development,Paid,Intermediate,4.1,27.0,0.5922
+U0597,C005,Finance & Accounting,Certification,Beginner,4.7,22.0,0.5733
+U0598,C042,Digital Marketing,Certification,Advanced,5.0,33.0,0.7231
+U0598,C029,Data Science,Certification,Intermediate,4.4,39.0,0.68
+U0598,C035,Cybersecurity,Certification,Intermediate,4.7,33.0,0.6631
+U0598,C038,Digital Marketing,Certification,Beginner,4.5,33.0,0.6231
+U0598,C068,Cloud Computing,Certification,Intermediate,4.5,33.0,0.6231
+U0599,C070,AI & Machine Learning,Paid,Beginner,4.5,46.0,0.775
+U0599,C014,AI & Machine Learning,Paid,Intermediate,4.6,42.0,0.7236
+U0599,C021,Business Analytics,Paid,Intermediate,4.7,50.0,0.6864
+U0599,C004,AI & Machine Learning,Paid,Beginner,4.3,42.0,0.6636
+U0599,C055,AI & Machine Learning,Paid,Intermediate,3.6,49.0,0.6486
+U0600,C066,Data Science,Paid,Advanced,4.8,39.0,0.7517
+U0600,C071,Data Science,Paid,Advanced,4.1,45.0,0.7367
+U0600,C017,Data Science,Paid,Intermediate,5.0,36.0,0.7292
+U0600,C035,Cybersecurity,Certification,Intermediate,4.7,45.0,0.6567
+U0600,C042,Digital Marketing,Certification,Advanced,5.0,42.0,0.6542

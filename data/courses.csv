@@ -1,0 +1,81 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CourseRating
+C001,Finance & Accounting,Free,Beginner,3.8
+C002,Data Science,Paid,Advanced,4.3
+C003,Finance & Accounting,Free,Beginner,4.1
+C004,AI & Machine Learning,Paid,Beginner,4.3
+C005,Finance & Accounting,Certification,Beginner,4.7
+C006,Web Development,Paid,Beginner,4.1
+C007,Business Analytics,Paid,Advanced,3.7
+C008,Data Science,Paid,Advanced,4.0
+C009,Cloud Computing,Free,Advanced,4.5
+C010,AI & Machine Learning,Paid,Intermediate,4.5
+C011,Cybersecurity,Free,Beginner,4.4
+C012,Cloud Computing,Free,Intermediate,4.0
+C013,Finance & Accounting,Paid,Intermediate,4.5
+C014,AI & Machine Learning,Paid,Intermediate,4.6
+C015,Design (UI/UX),Paid,Beginner,3.9
+C016,Cybersecurity,Free,Intermediate,4.2
+C017,Data Science,Paid,Intermediate,5.0
+C018,Mobile Development,Paid,Advanced,3.9
+C019,Design (UI/UX),Paid,Advanced,3.5
+C020,Cloud Computing,Paid,Intermediate,4.8
+C021,Business Analytics,Paid,Intermediate,4.7
+C022,Web Development,Paid,Intermediate,4.0
+C023,Mobile Development,Paid,Beginner,4.2
+C024,Design (UI/UX),Certification,Advanced,3.7
+C025,Business Analytics,Paid,Advanced,4.2
+C026,Business Analytics,Paid,Intermediate,4.7
+C027,AI & Machine Learning,Paid,Beginner,4.0
+C028,Design (UI/UX),Paid,Beginner,4.6
+C029,Data Science,Certification,Intermediate,4.4
+C030,Finance & Accounting,Paid,Beginner,4.4
+C031,Cybersecurity,Paid,Advanced,4.0
+C032,Cybersecurity,Paid,Beginner,4.1
+C033,Cloud Computing,Paid,Beginner,3.5
+C034,Cloud Computing,Paid,Advanced,4.0
+C035,Cybersecurity,Certification,Intermediate,4.7
+C036,Data Science,Paid,Beginner,3.8
+C037,Web Development,Paid,Beginner,3.9
+C038,Digital Marketing,Certification,Beginner,4.5
+C039,Finance & Accounting,Free,Intermediate,4.4
+C040,Web Development,Free,Beginner,4.5
+C041,AI & Machine Learning,Paid,Intermediate,3.7
+C042,Digital Marketing,Certification,Advanced,5.0
+C043,Digital Marketing,Free,Beginner,3.7
+C044,Design (UI/UX),Free,Advanced,4.3
+C045,Data Science,Free,Advanced,4.1
+C046,Data Science,Free,Beginner,3.7
+C047,Digital Marketing,Free,Advanced,4.1
+C048,Design (UI/UX),Paid,Intermediate,4.2
+C049,Finance & Accounting,Paid,Advanced,3.9
+C050,Digital Marketing,Paid,Intermediate,4.6
+C051,Mobile Development,Paid,Intermediate,4.1
+C052,Cloud Computing,Free,Intermediate,3.7
+C053,Cloud Computing,Paid,Advanced,3.6
+C054,Web Development,Paid,Intermediate,4.4
+C055,AI & Machine Learning,Paid,Intermediate,3.6
+C056,Cloud Computing,Free,Advanced,4.3
+C057,Business Analytics,Paid,Beginner,4.4
+C058,Web Development,Paid,Beginner,3.8
+C059,Cloud Computing,Certification,Beginner,4.6
+C060,AI & Machine Learning,Paid,Beginner,3.5
+C061,Data Science,Paid,Beginner,4.3
+C062,Data Science,Paid,Advanced,4.2
+C063,Finance & Accounting,Certification,Beginner,4.2
+C064,Digital Marketing,Free,Intermediate,3.7
+C065,Mobile Development,Free,Beginner,3.8
+C066,Data Science,Paid,Advanced,4.8
+C067,Design (UI/UX),Free,Advanced,4.7
+C068,Cloud Computing,Certification,Intermediate,4.5
+C069,Design (UI/UX),Paid,Advanced,4.6
+C070,AI & Machine Learning,Paid,Beginner,4.5
+C071,Data Science,Paid,Advanced,4.1
+C072,Mobile Development,Certification,Beginner,4.2
+C073,AI & Machine Learning,Certification,Advanced,3.6
+C074,Business Analytics,Paid,Beginner,4.2
+C075,Business Analytics,Certification,Intermediate,4.7
+C076,Design (UI/UX),Certification,Intermediate,3.9
+C077,Digital Marketing,Paid,Beginner,4.6
+C078,Web Development,Free,Beginner,4.2
+C079,Digital Marketing,Paid,Beginner,3.6
+C080,Finance & Accounting,Certification,Beginner,3.8
